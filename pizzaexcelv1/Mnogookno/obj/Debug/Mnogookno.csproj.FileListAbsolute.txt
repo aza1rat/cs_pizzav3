@@ -1,0 +1,119 @@
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.AssemblyReference.cache
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.SuggestedBindingRedirects.cache
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Properties.Resources.resources
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Оформленный_заказ.resources
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Сделать_заказ.resources
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Управлять_меню.resources
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Электронное_меню.resources
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.GenerateResource.cache
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.CoreCompileInputs.cache
+D:\Mnogookno\Mnogookno\bin\Debug\Mnogookno.exe.config
+D:\Mnogookno\Mnogookno\bin\Debug\Mnogookno.exe
+D:\Mnogookno\Mnogookno\bin\Debug\Mnogookno.pdb
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.exe
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.pdb
+D:\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Окны.Parol.resources
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\bin\Debug\Mnogookno.exe.config
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\bin\Debug\Mnogookno.exe
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\bin\Debug\Mnogookno.pdb
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Properties.Resources.resources
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Окны.Parol.resources
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\obj\Debug\Mnogookno.MakeOrder.resources
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\obj\Debug\Mnogookno.ModMenu.resources
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\obj\Debug\Mnogookno.MainMenuPizza.resources
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\obj\Debug\Mnogookno.exe
+C:\Users\Asus\Downloads\Mnogookno-20220117T191643Z-001\Mnogookno\Mnogookno\obj\Debug\Mnogookno.pdb
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.AssemblyReference.cache
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.SuggestedBindingRedirects.cache
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Properties.Resources.resources
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Окны.Parol.resources
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.MakeOrder.resources
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.ModMenu.resources
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.MainMenuPizza.resources
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.GenerateResource.cache
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.CoreCompileInputs.cache
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.exe
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.pdb
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\bin\Debug\Mnogookno.exe.config
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\bin\Debug\Mnogookno.exe
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\bin\Debug\Mnogookno.pdb
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Окны.AdmPanel.resources
+E:\2021\Mnogookno\Mnogookno\bin\Debug\Mnogookno.exe.config
+E:\2021\Mnogookno\Mnogookno\bin\Debug\Mnogookno.exe
+E:\2021\Mnogookno\Mnogookno\bin\Debug\Mnogookno.pdb
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.AssemblyReference.cache
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.SuggestedBindingRedirects.cache
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Properties.Resources.resources
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Окны.AdmPanel.resources
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Окны.Parol.resources
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.MakeOrder.resources
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.ModMenu.resources
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.MainMenuPizza.resources
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.GenerateResource.cache
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.CoreCompileInputs.cache
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.exe
+E:\2021\Mnogookno\Mnogookno\obj\Debug\Mnogookno.pdb
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\bin\Debug\Mnogookno.exe.config
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\bin\Debug\Mnogookno.exe
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\bin\Debug\Mnogookno.pdb
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Properties.Resources.resources
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Окны.AdmPanel.resources
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Окны.Parol.resources
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.MakeOrder.resources
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.ModMenu.resources
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.MainMenuPizza.resources
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.exe
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.pdb
+C:\Users\Asus\Desktop\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Окны.PriceList.resources
+C:\Users\andry\OneDrive\Рабочий стол\Mnogookno\Mnogookno\obj\Debug\Mnogookno.Окны.PriceList.resources
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\bin\Debug\Mnogookno.exe.config
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\bin\Debug\Mnogookno.exe
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\bin\Debug\Mnogookno.pdb
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.Properties.Resources.resources
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.Окны.Parol.resources
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.MakeOrder.resources
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.ModMenu.resources
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.MainMenuPizza.resources
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.Окны.PriceList.resources
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.exe
+C:\Users\Asus\Downloads\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.pdb
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\bin\Debug\Mnogookno.exe.config
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\bin\Debug\Mnogookno.exe
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\bin\Debug\Mnogookno.pdb
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.csproj.AssemblyReference.cache
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.csproj.SuggestedBindingRedirects.cache
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.Properties.Resources.resources
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.Окны.Parol.resources
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.MakeOrder.resources
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.ModMenu.resources
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.MainMenuPizza.resources
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.Окны.PriceList.resources
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.csproj.GenerateResource.cache
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.csproj.CoreCompileInputs.cache
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.exe
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.pdb
+C:\Users\andry\OneDrive\Рабочий стол\drive-download-20220118T194929Z-001\Mnogookno\obj\Debug\Mnogookno.Окны.ChangeImagePB.resources
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\bin\Debug\Mnogookno.exe.config
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\bin\Debug\Mnogookno.exe
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\bin\Debug\Mnogookno.pdb
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.csproj.ResolveComReference.cache
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.Properties.Resources.resources
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.Окны.Parol.resources
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.MakeOrder.resources
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.ModMenu.resources
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.MainMenuPizza.resources
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.Окны.PriceList.resources
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.exe
+C:\Users\Asus\Downloads\pizzaexcelv1\Mnogookno\obj\Debug\Mnogookno.pdb
